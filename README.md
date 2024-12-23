@@ -73,6 +73,8 @@ To run OBS Studio efficiently, your PC should meet the following system requirem
 - Lower resolution or frame rate for smooth streaming on lower-end PCs.
 - Update to the latest OBS version for bug fixes and performance improvements.
 
+*For optimizing your PC’s performance, read our article on [Pegasun System Optimizer Free Download](https://wecashbigchecksmi.com/index.php/2024/12/14/pegasun-system-utilities-review/) for quick and effective solutions.*
+
 ---
 
 ## **FAQs: Open Broadcaster Software Studio**
